@@ -111,7 +111,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 24326,"Apartamento 3 Quartos à venda, Santo Antônio - Belo Horizonte/MG",Apartamento,Santo Antônio ,"1192,Rua Cristina,Santo Antônio,Belo Horizonte",94.42,0.0,3.0,3.0,1.0,2.0,365.17,1431.55,1300000.0
 21918,"Apartamento 4 Quartos à venda, Vila Paris - Belo Horizonte/MG",Apartamento,Vila Paris ,"33,Rua Abadessa Gertrudes Prado,Vila Paris,Belo Horizonte",140.0,0.0,4.0,2.0,1.0,2.0,289.0,1050.0,790000.0
 24639,"Cobertura à venda, Funcionários - Belo Horizonte/MG",Cobertura,Funcionários ,"987,Rua Maranhao ,Funcionários,Belo Horizonte",220.0,0.0,3.0,3.0,1.0,2.0,262.01,883.1,900000.0
-20692,"Lote à venda, COND. VILA DEL REY - Nova Lima/MG",Lote,COND. VILA DEL REY ,"275,Alameda Serra da Mantiqueira,COND. VILA DEL REY,Nova Lima",6350.0,0.0,0.0,0.0,0.0,0.0,299.98,1160.0,1600000.0
 24637,"Apartamento 3 Quartos à venda, Santo Antônio - Belo Horizonte/MG",Apartamento,Santo Antônio ,"132,Av. Artur Bernardes,Santo Antônio,Belo Horizonte",95.0,0.0,3.0,2.0,0.0,1.0,170.81,700.0,450000.0
 20695,"Apartamento 4 Quartos à venda, Lourdes - Belo Horizonte/MG",Apartamento,Lourdes ,"279,Rua Alvarenga Peixoto,Lourdes,Belo Horizonte",155.49,0.0,4.0,2.0,1.0,2.0,613.95,1949.5,1400000.0
 23387,"Apartamento 3 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"353,Rua Bernardo Guimaraes,Funcionários,Belo Horizonte",95.25,0.0,3.0,3.0,1.0,2.0,599.81,1090.0,1090000.0
@@ -144,7 +143,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 23318,"Apartamento 4 Quartos à venda, Santo Antônio - Belo Horizonte/MG",Apartamento,Santo Antônio ,"54,Rua Sagarana,Santo Antônio,Belo Horizonte",152.42,0.0,4.0,3.0,2.0,4.0,699.22,1320.0,1850000.0
 23158,"Apartamento 2 Quartos à venda, Carmo - Belo Horizonte/MG",Apartamento,Carmo ,"746,Rua Pium-I,Carmo,Belo Horizonte",63.81,0.0,2.0,2.0,1.0,2.0,,,840000.0
 17074,"Sala à venda, CENTRO - Belo Horizonte/MG",Sala,CENTRO ,"1004,Rua da Bahia,CENTRO,Belo Horizonte",170.73,0.0,0.0,4.0,0.0,0.0,364.75,996.0,450000.0
-11550,"Galpão à venda, Distrito Industrial Jardim Piemont Norte - BETIM/MG",Galpão,Distrito Industrial Jardim Piemont Norte ,"709,Rua Toyota,Distrito Industrial Jardim Piemont Norte,BETIM",1200.0,0.0,0.0,0.0,0.0,0.0,2309.63,,2000000.0
 22170,"Cobertura à venda, Sion - Belo Horizonte/MG",Cobertura,Sion ,"38,Rua Sao Joao do Paraiso,Sion,Belo Horizonte",253.0,0.0,4.0,2.0,1.0,2.0,322.87,870.0,1450000.0
 11552,"Lote à venda, Buritis - Belo Horizonte/MG",Lote,Buritis ,"778 / 798,Av. Deputado Cristóvam Chiaradia,Buritis,Belo Horizonte",1800.0,0.0,0.0,0.0,0.0,0.0,101.64,,3000000.0
 21025,"Apartamento 4 Quartos à venda, Belvedere - Belo Horizonte/MG",Apartamento,Belvedere ,"55,Rua Maestro Arthur Bosmans,Belvedere,Belo Horizonte",215.08,0.0,4.0,4.0,2.0,4.0,1375.0,3295.6,3700000.0
@@ -230,20 +228,17 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 24376,"Apartamento 4 Quartos à venda, Sion - Belo Horizonte/MG",Apartamento,Sion ,"181,Rua Correias,Sion,Belo Horizonte",127.22,0.0,4.0,2.0,1.0,3.0,664.05,1120.0,1390000.0
 23218,"Cobertura à venda, Sion - Belo Horizonte/MG",Cobertura,Sion ,"36,Rua Nicaragua,Sion,Belo Horizonte",184.04,0.0,4.0,3.0,1.0,4.0,503.8,516.56,1890000.0
 20227,"Apartamento 2 Quartos à venda, Cidade Jardim - Belo Horizonte/MG",Apartamento,Cidade Jardim ,"130,Rua Donato da Fonseca,Cidade Jardim,Belo Horizonte",70.0,0.0,2.0,2.0,1.0,1.0,161.41,1100.0,450000.0
-11465,"Sala à venda, VALE DO SERENO - Nova Lima/MG",Sala,VALE DO SERENO ,"222,Alameda Oscar Niemeyer,VALE DO SERENO,Nova Lima",29.0,0.0,0.0,1.0,0.0,2.0,,446.62,310000.0
 20320,"Apartamento 4 Quartos à venda, Cruzeiro - Belo Horizonte/MG",Apartamento,Cruzeiro ,"162,Rua Maceio,Cruzeiro,Belo Horizonte",125.67,0.0,4.0,2.0,1.0,2.0,492.74,1000.0,930000.0
 22890,"Loja à venda, Funcionários - Belo Horizonte/MG",Loja,Funcionários ,"17,Engenheiro Carlos Antonini,Funcionários,Belo Horizonte",33.09,0.0,0.0,0.0,0.0,0.0,219.33,,295000.0
 15483,"Sala à venda, Santa Efigênia - Belo Horizonte/MG",Sala,Santa Efigênia ,"1614,Av. Francisco Sales,Santa Efigênia,Belo Horizonte",55.16,0.0,0.0,2.0,0.0,0.0,266.04,685.87,490000.0
 11313,"Apartamento 4 Quartos à venda, Santo Agostinho - Belo Horizonte/MG",Apartamento,Santo Agostinho ,"148,Av. Raja Gabaglia,Santo Agostinho,Belo Horizonte",170.0,0.0,4.0,3.0,1.0,2.0,325.43,600.0,890000.0
 14990,"Apartamento 4 Quartos à venda, Gutierrez - Belo Horizonte/MG",Apartamento,Gutierrez ,"91,Rua Porto Carrero,Gutierrez,Belo Horizonte",200.0,0.0,4.0,2.0,1.0,3.0,420.0,1500.0,970000.0
-19864,"Casa à venda, JOÁ - LAGOA SANTA/MG",Casa,JOÁ ,"802,Rua Bahia,JOÁ,LAGOA SANTA",161.82,0.0,3.0,3.0,1.0,4.0,133.83,,995000.0
 14714,"Sala à venda, Funcionários - Belo Horizonte/MG",Sala,Funcionários ,"4480,Av. do Contorno,Funcionários,Belo Horizonte",27.81,0.0,0.0,1.0,0.0,0.0,144.44,367.55,200000.0
 453,"Apartamento 3 Quartos à venda, São Lucas - Belo Horizonte/MG",Apartamento,São Lucas ,"73,RUA JOSE OLIMPIO BORGES,São Lucas,Belo Horizonte",72.33,0.0,3.0,2.0,1.0,2.0,147.94,400.0,490000.0
 22928,"Apartamento 3 Quartos à venda, Serra - Belo Horizonte/MG",Apartamento,Serra ,"411,Rua Guaxupe,Serra,Belo Horizonte",66.43,0.0,3.0,2.0,1.0,1.0,132.22,516.22,325000.0
 20990,"Apartamento 3 Quartos à venda, Grajaú - Belo Horizonte/MG",Apartamento,Grajaú ,"385,Rua Canaã,Grajaú,Belo Horizonte",100.0,0.0,3.0,1.0,0.0,1.0,91.47,320.0,385000.0
 16749,"Loja à venda, Funcionários - Belo Horizonte/MG",Loja,Funcionários ,"449,Av. Getúlio Vargas,Funcionários,Belo Horizonte",375.0,0.0,0.0,0.0,0.0,4.0,1500.0,1400.0,3150000.0
 22895,"Casa à venda, Santo Antônio - Belo Horizonte/MG",Casa,Santo Antônio ,"398,Rua Paulo Afonso,Santo Antônio,Belo Horizonte",185.0,0.0,3.0,2.0,1.0,2.0,429.77,,980000.0
-4109,"Lote à venda, Distrito Industrial Olhos D'Água - LAGOA SANTA/MG",Lote,Distrito Industrial Olhos D'Água ,"S/N,Rua Olhos D&#039;Água,Distrito Industrial Olhos D&#039;Água,LAGOA SANTA",2000.53,0.0,0.0,0.0,0.0,0.0,,,800212.0
 18205,"Apartamento 4 Quartos à venda, Lourdes - Belo Horizonte/MG",Apartamento,Lourdes ,"2381,Rua Curitiba,Lourdes,Belo Horizonte",273.0,0.0,4.0,3.0,2.0,3.0,1126.92,2955.0,3000000.0
 12422,"Casa à venda, Santo Antônio - Belo Horizonte/MG",Casa,Santo Antônio ,"75,Rua Marquês de Paranaguá,Santo Antônio,Belo Horizonte",179.0,0.0,4.0,2.0,1.0,2.0,305.05,,990000.0
 10945,"Cobertura à venda, Serra - Belo Horizonte/MG",Cobertura,Serra ,"290,Rua Henrique Passini,Serra,Belo Horizonte",90.0,60.0,3.0,3.0,1.0,3.0,325.0,550.0,1150000.0
@@ -268,7 +263,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 24375,"Apartamento 4 Quartos à venda, Santo Agostinho - Belo Horizonte/MG",Apartamento,Santo Agostinho ,"284,Rua Martim de Carvalho,Santo Agostinho,Belo Horizonte",205.0,0.0,4.0,4.0,2.0,3.0,983.18,2400.0,2150000.0
 23514,"Apartamento 2 Quartos à venda, Santo Antônio - Belo Horizonte/MG",Apartamento,Santo Antônio ,"806,Rua Leopoldina,Santo Antônio,Belo Horizonte",75.0,0.0,2.0,2.0,1.0,1.0,161.07,638.86,450000.0
 23842,"Cobertura à venda, Sagrada Família - Belo Horizonte/MG",Cobertura,Sagrada Família ,"261,Rua Sao Felipe,Sagrada Família,Belo Horizonte",120.0,0.0,3.0,2.0,0.0,1.0,101.51,350.0,480000.0
-24093,"Casa à venda, OURO VELHO MANSÕES - Nova Lima/MG",Casa,OURO VELHO MANSÕES ,"200,Alameda Amanda,OURO VELHO MANSÕES,Nova Lima",320.0,0.0,4.0,4.0,1.0,2.0,143.36,,1980000.0
 24317,"Apartamento 2 Quartos à venda, Cidade Jardim - Belo Horizonte/MG",Apartamento,Cidade Jardim ,"48,Rua Carvalho de Almeida,Cidade Jardim,Belo Horizonte",94.0,0.0,2.0,2.0,1.0,0.0,,180.0,680000.0
 2811,"Sala à venda, Lourdes - Belo Horizonte/MG",Sala,Lourdes ,"1137,RUA GUAJAJARAS,Lourdes,Belo Horizonte",44.82,0.0,0.0,2.0,0.0,0.0,,,554570.0
 2588,"Lote à venda, Anchieta - Belo Horizonte/MG",Lote,Anchieta ,"194,RUA FLORALIA,Anchieta,Belo Horizonte",120.0,0.0,0.0,0.0,0.0,0.0,380.0,,1200000.0
@@ -349,7 +343,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 2873,"Loja à venda, Funcionários - Belo Horizonte/MG",Loja,Funcionários ,"5628,Avenida do Contorno,Funcionários,Belo Horizonte",269.0,0.0,0.0,3.0,0.0,0.0,877.06,,3000000.0
 2804,"Sala à venda, Cidade Jardim - Belo Horizonte/MG",Sala,Cidade Jardim ,"1710,Avenida Raja Gabaglia,Cidade Jardim,Belo Horizonte",50.0,0.0,0.0,2.0,0.0,1.0,220.0,500.0,380000.0
 1909,"Cobertura à venda, Sagrada Família - Belo Horizonte/MG",Cobertura,Sagrada Família ,"346,RUA ITACOATIARA,Sagrada Família,Belo Horizonte",134.0,0.0,3.0,2.0,1.0,2.0,154.0,350.0,550000.0
-1780,"Apartamento 4 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"85,RUA ALAMEDA DO MORRO,Vila da Serra,Nova Lima",225.0,0.0,4.0,4.0,4.0,4.0,664.35,2697.43,3400000.0
 1200,"Apartamento 4 Quartos à venda, Lourdes - Belo Horizonte/MG",Apartamento,Lourdes ,"500,RUA ANTONIO ALEIXO,Lourdes,Belo Horizonte",170.0,0.0,4.0,2.0,1.0,2.0,547.97,1728.0,1700000.0
 20156,"Apartamento 5 Quartos à venda, Savassi - Belo Horizonte/MG",Apartamento,Savassi ,"595,Rua Professor Moraes,Savassi,Belo Horizonte",290.0,0.0,4.0,2.0,1.0,3.0,553.19,2200.0,1450000.0
 2136,"Cobertura à venda, São Pedro - Belo Horizonte/MG",Cobertura,São Pedro ,"252,RUA RAUL POMPEIA,São Pedro,Belo Horizonte",288.57,0.0,4.0,4.0,2.0,4.0,770.17,750.0,1990000.0
@@ -438,7 +431,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 22910,"Apartamento 3 Quartos à venda, Sion - Belo Horizonte/MG",Apartamento,Sion ,"280,Rua Engenheiro Caetano Lopes,Sion,Belo Horizonte",124.0,0.0,3.0,3.0,1.0,2.0,357.0,1408.0,1060000.0
 22909,"Apartamento 2 Quartos à venda, Grajaú - Belo Horizonte/MG",Apartamento,Grajaú ,"730,Rua Camapuan,Grajaú,Belo Horizonte",80.0,0.0,2.0,2.0,0.0,1.0,111.8,480.0,490000.0
 21969,"Cobertura à venda, Cidade Nova - Belo Horizonte/MG",Cobertura,Cidade Nova ,"589,Rua Artur de Sa,Cidade Nova,Belo Horizonte",120.0,30.0,2.0,3.0,1.0,2.0,283.18,500.0,699000.0
-21934,"Casa à venda, BOSQUE DO JAMBREIRO - Nova Lima/MG",Casa,BOSQUE DO JAMBREIRO ,"581,RUA ALAMEDA DAS ORQUÍDEAS,BOSQUE DO JAMBREIRO,Nova Lima",280.0,0.0,3.0,4.0,1.0,2.0,130.0,880.0,2550000.0
 12723,"Apartamento 4 Quartos à venda, Cruzeiro - Belo Horizonte/MG",Apartamento,Cruzeiro ,"272,Rua Muzambinho,Cruzeiro,Belo Horizonte",203.87,0.0,4.0,3.0,1.0,2.0,596.27,800.0,1200000.0
 21693,"Apartamento 2 Quartos à venda, Santa Efigênia - Belo Horizonte/MG",Apartamento,Santa Efigênia ,"207,Rua Piaui,Santa Efigênia,Belo Horizonte",60.0,0.0,2.0,2.0,0.0,2.0,244.62,680.0,590000.0
 21668,"Apartamento 4 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"1850,Rua Ceara,Funcionários,Belo Horizonte",240.0,0.0,4.0,4.0,2.0,3.0,1200.0,2800.0,2590000.0
@@ -483,7 +475,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 23923,"Apartamento 4 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"1418,Rua Maranhao,Funcionários,Belo Horizonte",278.0,0.0,4.0,4.0,4.0,4.0,2035.17,3369.19,6390000.0
 24607,"Apartamento 3 Quartos à venda, Sion - Belo Horizonte/MG",Apartamento,Sion ,"281,Rua California,Sion,Belo Horizonte",90.0,0.0,3.0,2.0,0.0,0.0,147.75,470.0,420000.0
 24306,"Apartamento 3 Quartos à venda, Santa Tereza - Belo Horizonte/MG",Apartamento,Santa Tereza ,"235,Rua Hermilo Alves,Santa Tereza,Belo Horizonte",64.63,0.0,3.0,1.0,0.0,1.0,155.29,593.5,430000.0
-21794,"Apartamento 4 Quartos à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"486,Rua das Acacias,VALE DO SERENO,Nova Lima",174.0,0.0,4.0,4.0,4.0,4.0,132.0,1100.0,2050000.0
 18812,"Área privativa à venda, Funcionários - Belo Horizonte/MG",Área privativa,Funcionários ,"90,Rua Claudio Manoel,Funcionários,Belo Horizonte",58.0,30.0,2.0,1.0,0.0,0.0,153.15,220.0,320000.0
 18643,"Casa à venda, São Lucas - Belo Horizonte/MG",Casa,São Lucas ,"218,Rua Nísio Batista de Oliveira,São Lucas,Belo Horizonte",320.0,266.05,4.0,3.0,2.0,4.0,235.11,,990000.0
 18132,"Sala à venda, CENTRO - Belo Horizonte/MG",Sala,CENTRO ,"570,Rua da Bahia,CENTRO,Belo Horizonte",28.5,0.0,0.0,1.0,0.0,0.0,107.12,110.93,60000.0
@@ -517,10 +508,8 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 23173,"Apartamento 3 Quartos à venda, São Lucas - Belo Horizonte/MG",Apartamento,São Lucas ,"845,Rua Carlos Peixoto,São Lucas,Belo Horizonte",100.0,0.0,3.0,2.0,1.0,2.0,154.63,500.0,350000.0
 23594,"Apartamento 3 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"261,Rua dos Timbiras,Funcionários,Belo Horizonte",113.0,0.0,3.0,2.0,1.0,2.0,427.54,1100.0,1080000.0
 22868,"Cobertura à venda, Cruzeiro - Belo Horizonte/MG",Cobertura,Cruzeiro ,"06,Rua Braz Cubas,Cruzeiro,Belo Horizonte",260.0,50.0,5.0,3.0,2.0,4.0,786.99,1435.0,2600000.0
-22602,"Apartamento 2 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"205,Rua da Mata,Vila da Serra,Nova Lima",72.0,0.0,2.0,2.0,1.0,2.0,59.09,741.74,960000.0
 22042,"Cobertura à venda, Serra - Belo Horizonte/MG",Cobertura,Serra ,"146,Rua Bambui,Serra,Belo Horizonte",255.0,0.0,5.0,3.0,2.0,3.0,739.56,1295.8,1600000.0
 21384,"Apartamento 5 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"1037,Rua Rio Grande do Norte,Funcionários,Belo Horizonte",180.0,0.0,5.0,2.0,1.0,2.0,542.16,1440.0,900000.0
-21818,"Apartamento 1 Quarto à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"300,Rua Sibipiruna,Vila da Serra,Nova Lima",45.0,0.0,1.0,1.0,1.0,1.0,,300.0,700000.0
 20976,"Apartamento 4 Quartos à venda, Lourdes - Belo Horizonte/MG",Apartamento,Lourdes ,"300,Rua Antonio Aleixo,Lourdes,Belo Horizonte",160.0,0.0,4.0,2.0,1.0,2.0,420.0,1176.0,1500000.0
 20476,"Casa à venda, Serra - Belo Horizonte/MG",Casa,Serra ,"250,Rua Itapemirim,Serra,Belo Horizonte",340.0,0.0,5.0,3.0,1.0,3.0,369.05,,1400000.0
 17464,"Sala à venda, Santa Efigênia - Belo Horizonte/MG",Sala,Santa Efigênia ,"18,Rua Padre Rolim,Santa Efigênia,Belo Horizonte",24.0,0.0,0.0,1.0,0.0,1.0,89.99,400.0,180000.0
@@ -593,7 +582,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 23295,"Lote à venda, Santo Antônio - Belo Horizonte/MG",Lote,Santo Antônio ,"417/415,Rua Mangabeira,Santo Antônio,Belo Horizonte",206.0,0.0,0.0,0.0,0.0,0.0,617.15,,1280000.0
 23598,"Casa à venda, Mangabeiras - Belo Horizonte/MG",Casa,Mangabeiras ,"1352,Rua Odilon Braga,Mangabeiras,Belo Horizonte",286.0,0.0,4.0,3.0,2.0,5.0,700.12,,1950000.0
 23661,"Apartamento 4 Quartos à venda, Lourdes - Belo Horizonte/MG",Apartamento,Lourdes ,"2427,Rua Curitiba,Lourdes,Belo Horizonte",314.31,0.0,4.0,3.0,2.0,3.0,1511.45,2600.0,2800000.0
-22753,"Casa à venda, Alphaville - Lagoa dos Ingleses - Nova Lima/MG",Casa,Alphaville - Lagoa dos Ingleses ,"275,Rua dos Pinheiros,Alphaville - Lagoa dos Ingleses,Nova Lima",315.14,0.0,6.0,6.0,4.0,4.0,1230.0,858.0,3600000.0
 22977,"Área privativa à venda, Santo Antônio - Belo Horizonte/MG",Área privativa,Santo Antônio ,"577,Rua Paulo Afonso,Santo Antônio,Belo Horizonte",57.74,75.91,2.0,2.0,1.0,2.0,328.08,320.0,720000.0
 23029,"Cobertura à venda, Cruzeiro - Belo Horizonte/MG",Cobertura,Cruzeiro ,"119,Rua Minas Novas,Cruzeiro,Belo Horizonte",325.0,0.0,3.0,3.0,3.0,5.0,1343.03,1928.0,3250000.0
 23031,"Apartamento 3 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"710,Rua Manaus,Funcionários,Belo Horizonte",74.39,0.0,3.0,2.0,1.0,2.0,,,1180000.0
@@ -651,7 +639,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 13177,"Loja à venda, Funcionários - Belo Horizonte/MG",Loja,Funcionários ,"1348,Rua Maranhão,Funcionários,Belo Horizonte",62.0,0.0,0.0,0.0,0.0,0.0,150.0,250.0,550000.0
 19526,"Lote à venda, Santa Efigênia - Belo Horizonte/MG",Lote,Santa Efigênia ,"166,Rua Major Barbosa,Santa Efigênia,Belo Horizonte",0.0,0.0,0.0,0.0,0.0,0.0,307.88,,5600000.0
 20704,"Apartamento 3 Quartos à venda, Lourdes - Belo Horizonte/MG",Apartamento,Lourdes ,"2273,Rua Aimorés,Lourdes,Belo Horizonte",87.45,0.0,3.0,2.0,1.0,2.0,,,1345000.0
-21014,"Loja à venda, Ressaca - CONTAGEM/MG",Loja,Ressaca ,"4279,Av. Abilio Machado,Ressaca,CONTAGEM",696.67,0.0,0.0,0.0,0.0,21.0,222.62,,5250000.0
 21676,"Apartamento 4 Quartos à venda, São Lucas - Belo Horizonte/MG",Apartamento,São Lucas ,"59,Rua Professor Tancredo Martins,São Lucas,Belo Horizonte",120.0,0.0,4.0,2.0,1.0,2.0,175.89,485.0,499000.0
 23844,"Apartamento 4 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"1737,Rua Maranhao,Funcionários,Belo Horizonte",154.0,0.0,4.0,3.0,2.0,3.0,743.68,1800.0,1650000.0
 23925,"Apartamento 2 Quartos à venda, Cruzeiro - Belo Horizonte/MG",Apartamento,Cruzeiro ,"110,Rua Opala,Cruzeiro,Belo Horizonte",68.0,0.0,2.0,1.0,0.0,0.0,153.1,544.8,330000.0
@@ -783,7 +770,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 19238,"Loja à venda, CENTRO - Belo Horizonte/MG",Loja,CENTRO ,"719,Rua dos Guajajaras,CENTRO,Belo Horizonte",384.7,0.0,0.0,0.0,0.0,0.0,2771.9,,3000000.0
 19213,"Andar corrido à venda, Santa Efigênia - Belo Horizonte/MG",Andar corrido,Santa Efigênia ,"971,Av. Bernardo Monteiro,Santa Efigênia,Belo Horizonte",559.32,69.42,0.0,4.0,0.0,3.0,2064.39,5427.96,3200000.0
 19212,"Andar corrido à venda, Santa Efigênia - Belo Horizonte/MG",Andar corrido,Santa Efigênia ,"971,Av. Bernardo Monteiro,Santa Efigênia,Belo Horizonte",367.0,0.0,0.0,4.0,0.0,7.0,1691.37,3498.25,2500000.0
-18699,"Casa à venda, Lagoa do Miguelão - Nova Lima/MG",Casa,Lagoa do Miguelão ,"S/N ,Alameda do Sereno,Lagoa do Miguelão,Nova Lima",685.0,0.0,6.0,3.0,2.0,8.0,240.0,1560.0,2900000.0
 18689,"Apartamento 4 Quartos à venda, Lourdes - Belo Horizonte/MG",Apartamento,Lourdes ,"1848,Rua Rio de Janeiro,Lourdes,Belo Horizonte",289.56,0.0,4.0,4.0,2.0,3.0,903.66,2138.0,2980000.0
 13624,"Casa à venda, Mangabeiras - Belo Horizonte/MG",Casa,Mangabeiras ,"127,Rua Expedicionário Alício,Mangabeiras,Belo Horizonte",600.0,0.0,4.0,3.0,3.0,6.0,576.0,,2200000.0
 13465,"Apartamento 4 Quartos à venda, Santo Agostinho - Belo Horizonte/MG",Apartamento,Santo Agostinho ,"1300,Rua Paracatu,Santo Agostinho,Belo Horizonte",168.0,0.0,4.0,3.0,2.0,3.0,625.0,1883.0,1915000.0
@@ -1005,28 +991,7 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 23767,"Apartamento 4 Quartos à venda, Anchieta - Belo Horizonte/MG",Apartamento,Anchieta ,"74,Rua Rio Verde,Anchieta,Belo Horizonte",195.02,0.0,4.0,3.0,2.0,4.0,,,2894565.85
 23763,"Apartamento 4 Quartos à venda, Anchieta - Belo Horizonte/MG",Apartamento,Anchieta ,"74,Rua Rio Verde,Anchieta,Belo Horizonte",184.38,0.0,4.0,3.0,2.0,3.0,,,2754026.39
 23761,"Apartamento 4 Quartos à venda, Anchieta - Belo Horizonte/MG",Apartamento,Anchieta ,"74,Rua Rio Verde,Anchieta,Belo Horizonte",195.7,0.0,4.0,3.0,2.0,3.0,,,2785361.0
-22527,"Apartamento 2 Quartos à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",65.51,0.0,2.0,2.0,1.0,2.0,,,1049542.7
-22513,"Apartamento 2 Quartos à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",65.09,0.0,2.0,2.0,1.0,2.0,,,1112532.58
-22507,"Apartamento 2 Quartos à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",65.48,0.0,2.0,2.0,1.0,2.0,,,1066994.15
 23198,"Apartamento 3 Quartos à venda, Santo Antônio - Belo Horizonte/MG",Apartamento,Santo Antônio ,"707,Rua Sao Domingos do Prata,Santo Antônio,Belo Horizonte",90.09,0.0,3.0,2.0,1.0,2.0,,,1203200.0
-22437,"Apartamento 2 Quartos à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",65.55,0.0,2.0,2.0,1.0,2.0,,,970184.26
-22423,"Apartamento 2 Quartos à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",65.41,0.0,2.0,2.0,1.0,2.0,,,979779.37
-22407,"Apartamento 2 Quartos à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",65.47,0.0,2.0,2.0,1.0,2.0,,,931311.13
-22387,"Apartamento 2 Quartos à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",65.62,0.0,2.0,2.0,1.0,2.0,,,950736.4
-22380,"Apartamento 1 Quarto à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",37.61,0.0,1.0,1.0,0.0,1.0,,,674125.36
-22379,"Apartamento 1 Quarto à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",35.54,0.0,1.0,1.0,0.0,1.0,,,606341.6
-22378,"Apartamento 1 Quarto à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",32.87,0.0,1.0,1.0,0.0,1.0,,,1634846.9
-22372,"Cobertura à venda, VALE DO SERENO - Nova Lima/MG",Cobertura,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",110.54,0.0,1.0,1.0,0.0,1.0,,,1686142.99
-22369,"Apartamento 1 Quarto à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",36.94,0.0,1.0,1.0,0.0,1.0,,,624774.94
-22355,"Apartamento 1 Quarto à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",42.51,0.0,1.0,1.0,0.0,1.0,,,736523.81
-22341,"Apartamento 1 Quarto à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",43.21,0.0,1.0,1.0,0.0,1.0,,,653880.68
-22310,"Apartamento 1 Quarto à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",43.33,0.0,1.0,1.0,0.0,1.0,,,715781.5
-22309,"Apartamento 1 Quarto à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",42.33,0.0,1.0,1.0,0.0,1.0,,,582638.24
-22284,"Apartamento 1 Quarto à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",42.79,0.0,1.0,1.0,0.0,1.0,,,596019.89
-22246,"Apartamento 1 Quarto à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",41.77,0.0,1.0,1.0,0.0,1.0,,,550458.37
-22240,"Apartamento 1 Quarto à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",43.27,0.0,1.0,1.0,0.0,1.0,,,532607.08
-22239,"Apartamento 1 Quarto à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",42.27,0.0,1.0,1.0,0.0,1.0,,,532607.08
-22235,"Apartamento 1 Quarto à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"202,Rua do Cedro,VALE DO SERENO,Nova Lima",42.45,0.0,1.0,1.0,0.0,1.0,,,556270.09
 16818,"Apartamento 2 Quartos à venda, Santo Agostinho - Belo Horizonte/MG",Apartamento,Santo Agostinho ,"1682,Rua Araguari,Santo Agostinho,Belo Horizonte",66.79,0.0,2.0,2.0,1.0,2.0,,,1040220.28
 16815,"Apartamento 2 Quartos à venda, Santo Agostinho - Belo Horizonte/MG",Apartamento,Santo Agostinho ,"1682,Rua Araguari,Santo Agostinho,Belo Horizonte",66.78,0.0,2.0,2.0,1.0,2.0,,,1329171.83
 24071,"Apartamento 3 Quartos à venda, Anchieta - Belo Horizonte/MG",Apartamento,Anchieta ,"888,Rua Vitorio Marcola,Anchieta,Belo Horizonte",86.0,0.0,3.0,2.0,1.0,2.0,364.0,700.0,730000.0
@@ -1089,7 +1054,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 22203,"Apartamento 2 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"475,Rua dos Aimores,Funcionários,Belo Horizonte",76.63,0.0,2.0,2.0,2.0,2.0,,,1180385.53
 23818,"Loja à venda, Funcionários - Belo Horizonte/MG",Loja,Funcionários ,"1023,Rua Paraíba,Funcionários,Belo Horizonte",189.23,0.0,0.0,0.0,0.0,0.0,1087.86,538.81,2500000.0
 3009,"Prédio Comercial à venda, Carlos Prates - Belo Horizonte/MG",Prédio Comercial,Carlos Prates ,"40,Rua Maria Filogônio,Carlos Prates,Belo Horizonte",280.0,0.0,0.0,4.0,0.0,3.0,381.06,,1000000.0
-23346,"Apartamento 2 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"436,Alameda Oscar Niemeyer,Vila da Serra,Nova Lima",72.58,0.0,2.0,2.0,1.0,1.0,100.88,994.0,840000.0
 23711,"Sala à venda, Lourdes - Belo Horizonte/MG",Sala,Lourdes ,"1940,Rua dos Timbiras,Lourdes,Belo Horizonte",37.49,0.0,0.0,1.0,0.0,0.0,135.25,265.3,140000.0
 107,"Apartamento 2 Quartos à venda, São Lucas - Belo Horizonte/MG",Apartamento,São Lucas ,"199,Rua Cervantes,São Lucas,Belo Horizonte",64.74,0.0,2.0,2.0,1.0,2.0,54.45,300.0,450000.0
 4103,"Sala à venda, Funcionários - Belo Horizonte/MG",Sala,Funcionários ,"4137,Avenida do Contorno,Funcionários,Belo Horizonte",25.51,0.0,0.0,1.0,0.0,0.0,118.84,123.5,166500.0
@@ -1124,7 +1088,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 21986,"Área privativa à venda, Funcionários - Belo Horizonte/MG",Área privativa,Funcionários ,"906,Rua Piaui,Funcionários,Belo Horizonte",252.29,0.0,4.0,4.0,4.0,4.0,,,5301000.0
 21985,"Área privativa à venda, Funcionários - Belo Horizonte/MG",Área privativa,Funcionários ,"906,Rua Piaui,Funcionários,Belo Horizonte",255.57,0.0,4.0,4.0,4.0,4.0,,,5370000.0
 22197,"Apartamento 4 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"1986,Rua Ceara,Funcionários,Belo Horizonte",530.0,0.0,4.0,4.0,4.0,4.0,2819.54,3980.0,5000000.0
-22105,"Apartamento 4 Quartos à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"247,Rua Brauna,VALE DO SERENO,Nova Lima",188.0,0.0,4.0,3.0,2.0,4.0,,,2729000.0
 23474,"Apartamento 1 Quarto à venda, Serra - Belo Horizonte/MG",Apartamento,Serra ,"89,Rua Senador Pompéo,Serra,Belo Horizonte",47.0,0.0,1.0,1.0,1.0,1.0,,,420000.0
 22752,"Cobertura à venda, Santa Efigênia - Belo Horizonte/MG",Cobertura,Santa Efigênia ,"395,Rua Padre Rolim,Santa Efigênia,Belo Horizonte",138.28,0.0,3.0,3.0,1.0,2.0,324.92,899.0,1290000.0
 23703,"Apartamento 3 Quartos à venda, Serra - Belo Horizonte/MG",Apartamento,Serra ,"90,Rua Caetano Dias,Serra,Belo Horizonte",120.0,0.0,3.0,2.0,1.0,2.0,655.66,1384.0,975000.0
@@ -1158,7 +1121,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 22899,"Apartamento 2 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"581,Rua Alagoas,Funcionários,Belo Horizonte",66.76,0.0,2.0,1.0,0.0,1.0,222.68,892.18,670000.0
 22913,"Apartamento 3 Quartos à venda, Santo Antônio - Belo Horizonte/MG",Apartamento,Santo Antônio ,"107,Rua Carlos Gomes,Santo Antônio,Belo Horizonte",135.0,0.0,3.0,2.0,1.0,2.0,214.36,744.76,740000.0
 23175,"Apartamento 3 Quartos à venda, Serra - Belo Horizonte/MG",Apartamento,Serra ,"44,Rua Amapa,Serra,Belo Horizonte",85.0,0.0,3.0,2.0,1.0,2.0,172.78,550.0,550000.0
-23315,"Lote à venda, CENTRO - CONTAGEM/MG",Lote,CENTRO ,"536,Rua do Registro,CENTRO,CONTAGEM",39747.0,0.0,0.0,0.0,0.0,0.0,2496.34,,12120000.0
 23470,"Área privativa à venda, São Lucas - Belo Horizonte/MG",Área privativa,São Lucas ,"363,Rua Alberto Bressane,São Lucas,Belo Horizonte",42.0,19.0,1.0,1.0,0.0,1.0,,245.0,320000.0
 23788,"Sala à venda, Santa Efigênia - Belo Horizonte/MG",Sala,Santa Efigênia ,"348,Rua Domingos Vieira,Santa Efigênia,Belo Horizonte",23.16,0.0,0.0,1.0,0.0,0.0,128.99,323.11,130000.0
 24493,"Área privativa à venda, Lourdes - Belo Horizonte/MG",Área privativa,Lourdes ,"16,Rua Felipe dos Santos,Lourdes,Belo Horizonte",190.0,80.0,4.0,2.0,1.0,1.0,370.81,720.0,2120000.0
@@ -1201,14 +1163,7 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 9239,"Casa à venda, Bandeirantes (Pampulha) - Belo Horizonte/MG",Casa,Bandeirantes (Pampulha) ,"400,Rua Sebastião Antônio Carlos,Bandeirantes (Pampulha),Belo Horizonte",491.0,509.0,16.0,9.0,4.0,0.0,366.49,,1100000.0
 5709,"Casa à venda, Serra - Belo Horizonte/MG",Casa,Serra ,"139,Rua Gravataí,Serra,Belo Horizonte",314.0,0.0,9.0,8.0,6.0,2.0,338.07,,990000.0
 2654,"Lote à venda, Canaã - Belo Horizonte/MG",Lote,Canaã ,"S/N,RUA CEUTA,Canaã,Belo Horizonte",0.0,0.0,0.0,0.0,0.0,0.0,495.0,,2305500.0
-12442,"Lote à venda, Residencial Lagoa - BETIM/MG",Lote,Residencial Lagoa ,"s/n,Rua Otelino Ferreira Ramos,Residencial Lagoa,BETIM",7690.0,0.0,0.0,0.0,0.0,0.0,,,2999100.0
 2652,"Lote à venda, João Pinheiro - Belo Horizonte/MG",Lote,João Pinheiro ,"120,RUA JACINTO (ESQUINA DE LIVRAMENTO),João Pinheiro,Belo Horizonte",0.0,0.0,0.0,0.0,0.0,0.0,,,945000.0
-2649,"Lote à venda, Residencial Lagoa - BETIM/MG",Lote,Residencial Lagoa ,"290,Rua Antônio Anastácio,Residencial Lagoa,BETIM",0.0,0.0,0.0,0.0,0.0,0.0,520.0,,16640000.0
-2648,"Lote à venda, VILA FILADELFIA - BETIM/MG",Lote,VILA FILADELFIA ,"955,AV. DAS AMERICAS (AO LADO DO Nº955),VILA FILADELFIA,BETIM",0.0,0.0,0.0,0.0,0.0,0.0,21789.5,,11219200.0
-2647,"Lote à venda, PARQUE DAS INDUSTRIAS - BETIM/MG",Lote,PARQUE DAS INDUSTRIAS ,"2777,AV. JUIZ MARCO TULIO ISAAC (EM FRENTE DO Nº2777),PARQUE DAS INDUSTRIAS,BETIM",0.0,0.0,0.0,0.0,0.0,0.0,15782.31,,34171582.5
-2646,"Lote à venda, PARQUE DAS INDUSTRIAS - BETIM/MG",Lote,PARQUE DAS INDUSTRIAS ,"2777,Avenida Juiz Marco Túlio Isaac,PARQUE DAS INDUSTRIAS,BETIM",0.0,0.0,0.0,0.0,0.0,0.0,4870.35,,6195000.0
-2644,"Lote à venda, Santa Terezinha - BETIM/MG",Lote,Santa Terezinha ,"S/N,RUA INSPETOR JAIME CALDEIRA,Santa Terezinha,BETIM",0.0,0.0,0.0,0.0,0.0,0.0,1060.0,,10015200.0
-2643,"Lote à venda, Laranjeiras - BETIM/MG",Lote,Laranjeiras ,"1000,Avenida Juiz Marco Túlio Isaac,Laranjeiras,BETIM",0.0,0.0,0.0,0.0,0.0,0.0,13291.34,,31976000.0
 24080,"Apartamento 3 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"700,Rua Santa Rita Durao,Funcionários,Belo Horizonte",103.04,0.0,3.0,2.0,1.0,3.0,804.4,1340.2,1450000.0
 24072,"Apartamento 3 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"1119,Rua dos Inconfidentes,Funcionários,Belo Horizonte",104.5,0.0,3.0,2.0,1.0,1.0,231.51,380.0,890000.0
 12766,"Apartamento 2 Quartos à venda, Santa Efigênia - Belo Horizonte/MG",Apartamento,Santa Efigênia ,"688,Rua Tenente Anastácio de Moura,Santa Efigênia,Belo Horizonte",70.0,0.0,2.0,1.0,0.0,1.0,124.96,600.0,298000.0
@@ -1220,7 +1175,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 14986,"Cobertura à venda, São Lucas - Belo Horizonte/MG",Cobertura,São Lucas ,"67,Rua Alberto Bressane,São Lucas,Belo Horizonte",160.0,0.0,4.0,3.0,2.0,1.0,126.15,430.0,550000.0
 2862,"Sala à venda, CENTRO - Belo Horizonte/MG",Sala,CENTRO ,"37,RUA RIO DE JANEIRO,CENTRO,Belo Horizonte",169.83,0.0,0.0,1.0,0.0,0.0,,,1613385.0
 21507,"Apartamento 4 Quartos à venda, Lourdes - Belo Horizonte/MG",Apartamento,Lourdes ,"2067,Rua São Paulo,Lourdes,Belo Horizonte",188.91,0.0,4.0,3.0,2.0,3.0,948.48,1679.04,2950000.0
-23743,"Lote à venda, Bosque Residencial do Jambreiro - Nova Lima/MG",Lote,Bosque Residencial do Jambreiro ,"154,Alameda Perimetral das Orquídeas,Bosque Residencial do Jambreiro,Nova Lima",150.0,0.0,0.0,0.0,0.0,4.0,,556.51,790000.0
 22986,"Apartamento 3 Quartos à venda, São Lucas - Belo Horizonte/MG",Apartamento,São Lucas ,"164,Rua Rio Doce,São Lucas,Belo Horizonte",84.72,0.0,3.0,2.0,1.0,3.0,192.19,721.33,770000.0
 22641,"Lote à venda, Heliópolis - Belo Horizonte/MG",Lote,Heliópolis ,"10.175,Av. Cristiano Machado,Heliópolis,Belo Horizonte",0.0,0.0,0.0,0.0,0.0,0.0,,,1500000.0
 22171,"Sala à venda, CENTRO - Belo Horizonte/MG",Sala,CENTRO ,"262,Av. Afonso Pena,CENTRO,Belo Horizonte",49.54,0.0,0.0,1.0,0.0,0.0,121.41,438.39,120000.0
@@ -1236,7 +1190,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 8119,"Lote à venda, Santa Tereza - Belo Horizonte/MG",Lote,Santa Tereza ,"267,Rua Gabro,Santa Tereza,Belo Horizonte",980.0,0.0,0.0,0.0,0.0,0.0,103.48,,900000.0
 17747,"Loja à venda, Funcionários - Belo Horizonte/MG",Loja,Funcionários ,"1131,Rua Maranhao,Funcionários,Belo Horizonte",250.0,0.0,0.0,0.0,0.0,4.0,1515.0,,2400000.0
 6484,"Loja à venda, Barro Preto - Belo Horizonte/MG",Loja,Barro Preto ,"1259,Av. Augusto de Lima,Barro Preto,Belo Horizonte",32.0,0.0,0.0,0.0,0.0,0.0,111.47,360.0,160000.0
-21703,"Casa à venda, ALPHAVILLE - Nova Lima/MG",Casa,ALPHAVILLE ,"1780,RUA DOS FLAMBOYANTS,ALPHAVILLE,Nova Lima",280.0,0.0,3.0,3.0,2.0,6.0,136.44,850.0,1980000.0
 24084,"Apartamento 4 Quartos à venda, Anchieta - Belo Horizonte/MG",Apartamento,Anchieta ,"18,Rua Floralia,Anchieta,Belo Horizonte",172.09,0.0,4.0,4.0,2.0,3.0,965.15,2495.62,1950000.0
 24087,"Apartamento 4 Quartos à venda, Sion - Belo Horizonte/MG",Apartamento,Sion ,"786,Rua Republica Argentina,Sion,Belo Horizonte",161.3,0.0,4.0,5.0,2.0,3.0,646.1,1984.5,1810000.0
 22086,"Apartamento 4 Quartos à venda, Lourdes - Belo Horizonte/MG",Apartamento,Lourdes ,"755,Rua Antonio Aleixo,Lourdes,Belo Horizonte",154.86,0.0,4.0,3.0,1.0,2.0,694.21,2102.1,1350000.0
@@ -1322,7 +1275,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 21675,"Apartamento 4 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"147,Rua dos Otoni,Funcionários,Belo Horizonte",120.93,0.0,4.0,2.0,1.0,3.0,689.61,1762.84,1390000.0
 20541,"Loja à venda, Funcionários - Belo Horizonte/MG",Loja,Funcionários ,"54,Av. Getulio Vargas,Funcionários,Belo Horizonte",28.16,0.0,0.0,0.0,0.0,0.0,112.17,532.0,199000.0
 20540,"Terreno à venda, Cidade Nova - Belo Horizonte/MG",Terreno,Cidade Nova ,"156,Rua Clovis Magalhaes Pinto,Cidade Nova,Belo Horizonte",412.5,0.0,0.0,0.0,0.0,0.0,433.1,,2000000.0
-20263,"Casa à venda, Estância das Amendoeiras - LAGOA SANTA/MG",Casa,Estância das Amendoeiras ,"1600,Rua E,Estância das Amendoeiras,LAGOA SANTA",779.3,0.0,6.0,3.0,1.0,3.0,329.11,1500.0,5460000.0
 16290,"Sala à venda, Santa Efigênia - Belo Horizonte/MG",Sala,Santa Efigênia ,"815,Rua Padre Rolim,Santa Efigênia,Belo Horizonte",40.0,0.0,0.0,1.0,0.0,0.0,87.44,411.38,190000.0
 21707,"Apartamento 2 Quartos à venda, Floresta - Belo Horizonte/MG",Apartamento,Floresta ,"1298,Av. do Contorno,Floresta,Belo Horizonte",67.85,0.0,2.0,1.0,0.0,1.0,167.87,600.0,420000.0
 23931,"Cobertura à venda, Santo Antônio - Belo Horizonte/MG",Cobertura,Santo Antônio ,"613,Rua Carangola,Santo Antônio,Belo Horizonte",308.22,0.0,4.0,2.0,1.0,3.0,270.17,840.0,1200000.0
@@ -1352,7 +1304,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 21860,"Apartamento 4 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"895,Rua Grao Para,Funcionários,Belo Horizonte",194.14,0.0,4.0,4.0,2.0,4.0,1147.01,1900.0,1980000.0
 24563,"Cobertura à venda, Serra - Belo Horizonte/MG",Cobertura,Serra ,"66,Rua Pirapetinga,Serra,Belo Horizonte",108.48,0.0,2.0,2.0,2.0,2.0,347.67,480.0,795000.0
 22193,"Casa à venda, Santa Lúcia - Belo Horizonte/MG",Casa,Santa Lúcia ,"77,Rua Zodiaco,Santa Lúcia,Belo Horizonte",266.0,0.0,4.0,4.0,1.0,4.0,422.67,,1200000.0
-22199,"Casa à venda, Alphaville - Lagoa dos Ingleses - Nova Lima/MG",Casa,Alphaville - Lagoa dos Ingleses ,"615,Rua dos Flamboyants,Alphaville - Lagoa dos Ingleses,Nova Lima",360.0,0.0,5.0,4.0,2.0,6.0,184.22,823.0,2490000.0
 22192,"Casa à venda, Sagrada Família - Belo Horizonte/MG",Casa,Sagrada Família ,"921,Rua Joao Gualberto Filho,Sagrada Família,Belo Horizonte",330.0,0.0,4.0,3.0,1.0,4.0,333.74,,1100000.0
 2781,"Sala à venda, Santa Lúcia - Belo Horizonte/MG",Sala,Santa Lúcia ,"568,RUA ROMA,Santa Lúcia,Belo Horizonte",270.64,51.04,0.0,0.0,0.0,5.0,950.0,3000.0,3200000.0
 15069,"Apartamento 4 Quartos à venda, Cruzeiro - Belo Horizonte/MG",Apartamento,Cruzeiro ,"304,Rua Cobre,Cruzeiro,Belo Horizonte",139.58,0.0,4.0,2.0,1.0,4.0,990.0,1250.0,1385000.0
@@ -1375,7 +1326,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 24128,"Apartamento 2 Quartos à venda, Carmo - Belo Horizonte/MG",Apartamento,Carmo ,"1825,Av. Nossa Senhora do Carmo,Carmo,Belo Horizonte",57.0,0.0,2.0,1.0,0.0,1.0,143.04,1009.59,350000.0
 21314,"Cobertura à venda, Santa Tereza - Belo Horizonte/MG",Cobertura,Santa Tereza ,"627,Rua Eurita,Santa Tereza,Belo Horizonte",190.0,0.0,3.0,3.0,2.0,3.0,,,1250000.0
 21134,"Casa à venda, Serra - Belo Horizonte/MG",Casa,Serra ,"438,Rua Oriente,Serra,Belo Horizonte",200.0,0.0,3.0,1.0,0.0,3.0,461.82,,1200000.0
-8017,"Apartamento 4 Quartos à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"68,Alameda Flamboyant,VALE DO SERENO,Nova Lima",576.68,0.0,4.0,4.0,4.0,6.0,392.46,6500.0,8000000.0
 17317,"Apartamento 3 Quartos à venda, Santa Efigênia - Belo Horizonte/MG",Apartamento,Santa Efigênia ,"319,Rua Frutal,Santa Efigênia,Belo Horizonte",57.0,0.0,3.0,2.0,1.0,1.0,123.0,360.0,340000.0
 24565,"Cobertura à venda, Serra - Belo Horizonte/MG",Cobertura,Serra ,"1140,Rua Professor Estevao Pinto,Serra,Belo Horizonte",248.0,0.0,5.0,3.0,1.0,4.0,718.83,2172.08,2200000.0
 24141,"Apartamento 3 Quartos à venda, Serra - Belo Horizonte/MG",Apartamento,Serra ,"334,Rua Monte Siao,Serra,Belo Horizonte",80.71,0.0,3.0,3.0,1.0,2.0,200.19,675.85,498000.0
@@ -1409,10 +1359,8 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 2818,"Sala à venda, Barro Preto - Belo Horizonte/MG",Sala,Barro Preto ,"511,AV. AUGUSTO DE LIMA,Barro Preto,Belo Horizonte",98.39,0.0,0.0,1.0,0.0,2.0,,,1182290.0
 10522,"Andar corrido à venda, Lourdes - Belo Horizonte/MG",Andar corrido,Lourdes ,"515,Rua Guajajaras,Lourdes,Belo Horizonte",329.77,0.0,0.0,2.0,0.0,7.0,,,4057240.0
 2835,"Sala à venda, Barro Preto - Belo Horizonte/MG",Sala,Barro Preto ,"1568,AV.  AUGUSTO DE LIMA,Barro Preto,Belo Horizonte",29.03,0.0,0.0,1.0,0.0,0.0,,,319330.0
-22161,"Apartamento 4 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"589,Rua Ministro Orozimbo Nonato,Vila da Serra,Nova Lima",220.0,0.0,4.0,6.0,4.0,4.0,193.5,2500.0,2750000.0
 19239,"Galpão à venda, Cidade Jardim - Belo Horizonte/MG",Galpão,Cidade Jardim ,"30,Rua Donato da Fonseca,Cidade Jardim,Belo Horizonte",247.0,0.0,0.0,0.0,0.0,0.0,864.16,,1200000.0
 23507,"Apartamento 3 Quartos à venda, São Pedro - Belo Horizonte/MG",Apartamento,São Pedro ,"231,Rua Padre Odorico,São Pedro,Belo Horizonte",98.64,0.0,3.0,2.0,1.0,2.0,370.35,865.0,1250000.0
-22182,"Loja à venda, Vila da Serra - Nova Lima/MG",Loja,Vila da Serra ,"112,Rua Ministro Orozimbo Nonato,Vila da Serra,Nova Lima",80.65,0.0,0.0,0.0,0.0,0.0,200.0,944.47,1990000.0
 22181,"Cobertura à venda, Sion - Belo Horizonte/MG",Cobertura,Sion ,"540,Rua Venezuela,Sion,Belo Horizonte",200.0,0.0,3.0,5.0,3.0,3.0,457.14,1195.57,2400000.0
 20698,"Casa à venda, Mangabeiras - Belo Horizonte/MG",Casa,Mangabeiras ,"122,Rua Professor Sálvio Nunes,Mangabeiras,Belo Horizonte",500.0,0.0,6.0,5.0,4.0,6.0,844.46,,6000000.0
 13207,"Apartamento 3 Quartos à venda, CENTRO - Belo Horizonte/MG",Apartamento,CENTRO ,"1040,Rua Rio de Janeiro,CENTRO,Belo Horizonte",140.0,0.0,3.0,2.0,1.0,1.0,217.94,700.0,960000.0
@@ -1423,7 +1371,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 16108,"Apartamento 4 Quartos à venda, Savassi - Belo Horizonte/MG",Apartamento,Savassi ,"119,Rua Minas Novas,Savassi,Belo Horizonte",162.08,0.0,4.0,3.0,2.0,3.0,809.14,1234.2,1850000.0
 15116,"Área privativa à venda, Serra - Belo Horizonte/MG",Área privativa,Serra ,"285,Rua Pouso Alto,Serra,Belo Horizonte",62.04,62.94,2.0,2.0,1.0,2.0,267.72,729.14,889780.0
 24485,"Lote à venda, São Bento - Belo Horizonte/MG",Lote,São Bento ,"53,Rua Saturno,São Bento,Belo Horizonte",782.0,0.0,0.0,0.0,0.0,0.0,636.36,,1800000.0
-1745,"Apartamento 4 Quartos à venda, VALE DO SERENO - Nova Lima/MG",Apartamento,VALE DO SERENO ,"68,RUA ALAMEDA FLAMBOYANT,VALE DO SERENO,Nova Lima",576.0,0.0,4.0,4.0,4.0,6.0,416.0,6000.0,8850000.0
 23481,"Apartamento 3 Quartos à venda, Buritis - Belo Horizonte/MG",Apartamento,Buritis ,"157,Rua Sílvio de Oliveira Martins,Buritis,Belo Horizonte",95.0,20.0,3.0,2.0,1.0,2.0,250.0,440.0,600000.0
 13737,"Prédio Comercial à venda, Floresta - Belo Horizonte/MG",Prédio Comercial,Floresta ,"248,Av. Silviano Brandão,Floresta,Belo Horizonte",550.0,0.0,0.0,0.0,0.0,0.0,344.87,,2500000.0
 20233,"Apartamento 4 Quartos à venda, Sion - Belo Horizonte/MG",Apartamento,Sion ,"253,Rua La Plata,Sion,Belo Horizonte",176.0,0.0,4.0,3.0,2.0,3.0,903.46,2570.0,1550000.0
@@ -1431,7 +1378,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 21096,"Apartamento 4 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"933,Rua Piaui,Funcionários,Belo Horizonte",206.49,0.0,4.0,3.0,2.0,3.0,960.54,1948.59,2200000.0
 20886,"Cobertura à venda, Funcionários - Belo Horizonte/MG",Cobertura,Funcionários ,"421,Rua Grao Para,Funcionários,Belo Horizonte",113.06,0.0,2.0,2.0,2.0,2.0,,450.0,1100000.0
 23356,"Apartamento 3 Quartos à venda, São Pedro - Belo Horizonte/MG",Apartamento,São Pedro ,"723,Rua Lavras,São Pedro,Belo Horizonte",71.0,0.0,3.0,2.0,1.0,1.0,172.21,600.0,650000.0
-20703,"Cobertura à venda, Vila da Serra - Nova Lima/MG",Cobertura,Vila da Serra ,"S/N,Rua Manacá,Vila da Serra,Nova Lima",152.78,35.55,4.0,2.0,2.0,3.0,,,2970000.0
 23039,"Apartamento 3 Quartos à venda, Santo Antônio - Belo Horizonte/MG",Apartamento,Santo Antônio ,"301,Rua Benvinda de Carvalho,Santo Antônio,Belo Horizonte",88.2,0.0,3.0,2.0,1.0,1.0,245.66,1149.3,1000000.0
 22153,"Cobertura à venda, Funcionários - Belo Horizonte/MG",Cobertura,Funcionários ,"1567,Rua Maranhao,Funcionários,Belo Horizonte",480.0,0.0,4.0,6.0,4.0,4.0,2245.64,2855.32,6500000.0
 24123,"Apartamento 1 Quarto à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"1330,Rua dos Aimores,Funcionários,Belo Horizonte",49.88,0.0,1.0,1.0,1.0,1.0,272.17,750.0,680000.0
@@ -1500,7 +1446,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 23498,"Apartamento 3 Quartos à venda, Serra - Belo Horizonte/MG",Apartamento,Serra ,"313,Rua Professor Estevao Pinto,Serra,Belo Horizonte",73.48,0.0,3.0,2.0,1.0,2.0,543.27,1368.09,810000.0
 21465,"Apartamento 4 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"981,Rua Grao Para,Funcionários,Belo Horizonte",150.0,0.0,4.0,2.0,1.0,1.0,288.65,1100.0,850000.0
 19125,"Loja à venda, Gutierrez - Belo Horizonte/MG",Loja,Gutierrez ,"2781,Av. Amazonas,Gutierrez,Belo Horizonte",175.84,0.0,0.0,0.0,0.0,0.0,14.8,,790000.0
-18517,"Galpão à venda, Santo Antônio - BETIM/MG",Galpão,Santo Antônio ,"68,Rua Gaturana,Santo Antônio,BETIM",863.0,200.0,0.0,0.0,0.0,0.0,423.35,,1600000.0
 17457,"Sala à venda, Funcionários - Belo Horizonte/MG",Sala,Funcionários ,"18,Rua Padre Rolim,Funcionários,Belo Horizonte",46.42,0.0,0.0,2.0,0.0,0.0,274.56,920.0,280000.0
 15624,"Andar corrido à venda, Lourdes - Belo Horizonte/MG",Andar corrido,Lourdes ,"1932,Rua Sao Paulo,Lourdes,Belo Horizonte",324.0,0.0,0.0,8.0,0.0,1.0,370.06,2570.0,990000.0
 16457,"Lote à venda, Cruzeiro - Belo Horizonte/MG",Lote,Cruzeiro ,"39,Rua Senhora das Graças,Cruzeiro,Belo Horizonte",0.0,0.0,0.0,0.0,0.0,0.0,868.22,,2500000.0
@@ -1548,7 +1493,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 22744,"Lote à venda, Carlos Prates - Belo Horizonte/MG",Lote,Carlos Prates ,"665,Rua Santa Quitéria,Carlos Prates,Belo Horizonte",343.08,0.0,0.0,0.0,0.0,0.0,325.81,,500000.0
 21547,"Apartamento 4 Quartos à venda, Carmo - Belo Horizonte/MG",Apartamento,Carmo ,"457,Rua Boa Esperança,Carmo,Belo Horizonte",152.0,0.0,4.0,2.0,1.0,2.0,457.76,700.0,1260000.0
 20983,"Terreno à venda, Luxemburgo - Belo Horizonte/MG",Terreno,Luxemburgo ,"960,Rua Gentios,Luxemburgo,Belo Horizonte",0.0,0.0,0.0,0.0,0.0,0.0,215.35,,677400.0
-20901,"Casa à venda, Retiro do Chalé - BRUMADINHO/MG",Casa,Retiro do Chalé ,"472,Alameda da Mata ,Retiro do Chalé,BRUMADINHO",120.0,0.0,3.0,4.0,3.0,3.0,,1050.0,1200000.0
 20980,"Terreno à venda, Conjunto Santa Maria - Belo Horizonte/MG",Terreno,Conjunto Santa Maria ,"990,Rua Gentios,Conjunto Santa Maria,Belo Horizonte",0.0,0.0,0.0,0.0,0.0,0.0,178.78,,889100.0
 23023,"Apartamento 3 Quartos à venda, Colégio Batista - Belo Horizonte/MG",Apartamento,Colégio Batista ,"116,Rua Alvares de Azevedo,Colégio Batista,Belo Horizonte",83.96,0.0,3.0,2.0,1.0,2.0,194.22,411.12,550000.0
 22745,"Lote à venda, Carlos Prates - Belo Horizonte/MG",Lote,Carlos Prates ,"651e 655,Rua Santa Quitéria,Carlos Prates,Belo Horizonte",364.0,0.0,0.0,0.0,0.0,0.0,387.81,,700000.0
@@ -1582,7 +1526,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 23508,"Apartamento 4 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"197,Rua Claudio Manoel,Funcionários,Belo Horizonte",130.0,0.0,4.0,2.0,1.0,3.0,729.61,1957.0,1980000.0
 23504,"Apartamento 2 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"1364,Rua Timbiras,Funcionários,Belo Horizonte",80.66,0.0,2.0,2.0,1.0,1.0,254.54,520.0,745000.0
 24117,"Apartamento 4 Quartos à venda, São Lucas - Belo Horizonte/MG",Apartamento,São Lucas ,"89,Rua Teodomiro Cruz,São Lucas,Belo Horizonte",140.0,0.0,4.0,2.0,1.0,1.0,169.94,500.0,437900.0
-23376,"Área privativa à venda, Vila da Serra - Nova Lima/MG",Área privativa,Vila da Serra ,"392,Rua Gonzalez Pecotche,Vila da Serra,Nova Lima",153.0,52.0,4.0,4.0,3.0,3.0,163.5,2735.38,2200000.0
 22746,"Casa à venda, Anchieta - Belo Horizonte/MG",Casa,Anchieta ,"1247,Rua Montes Claros,Anchieta,Belo Horizonte",308.0,0.0,5.0,4.0,1.0,4.0,,,2000000.0
 21945,"Apartamento 4 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"514,Rua Pernambuco,Funcionários,Belo Horizonte",535.0,0.0,4.0,4.0,2.0,3.0,638.88,1650.5,4500000.0
 22743,"Casa à venda, Floresta - Belo Horizonte/MG",Casa,Floresta ,"161,Rua Saldanha da Gama,Floresta,Belo Horizonte",335.0,0.0,4.0,2.0,1.0,3.0,436.94,,1850000.0
@@ -1615,7 +1558,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 21679,"Casa à venda, Santa Lúcia - Belo Horizonte/MG",Casa,Santa Lúcia ,"479,Rua Eclipse,Santa Lúcia,Belo Horizonte",234.0,0.0,4.0,3.0,1.0,3.0,311.38,,1100000.0
 21534,"Cobertura à venda, Sion - Belo Horizonte/MG",Cobertura,Sion ,"515,Rua Patagonia,Sion,Belo Horizonte",168.0,0.0,3.0,2.0,1.0,2.0,468.24,1000.0,890000.0
 21166,"Casa à venda, Santa Tereza - Belo Horizonte/MG",Casa,Santa Tereza ,"308,Rua Anhangüera,Santa Tereza,Belo Horizonte",400.0,0.0,6.0,7.0,4.0,4.0,341.84,,1800000.0
-23372,"Apartamento 3 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"85,Rua da Mata,Vila da Serra,Nova Lima",87.17,0.0,3.0,2.0,1.0,2.0,95.98,1381.0,940000.0
 23234,"Área privativa à venda, São Pedro - Belo Horizonte/MG",Área privativa,São Pedro ,"15,Rua Orange,São Pedro,Belo Horizonte",129.96,0.0,3.0,2.0,1.0,2.0,263.93,750.0,890000.0
 22196,"Apartamento 3 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"395,Rua Padre Rolim,Funcionários,Belo Horizonte",86.5,0.0,3.0,2.0,1.0,2.0,369.18,865.71,770000.0
 21705,"Apartamento 1 Quarto à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"1026,Rua Piaui,Funcionários,Belo Horizonte",56.0,0.0,1.0,1.0,1.0,1.0,301.31,627.0,690000.0
@@ -1728,7 +1670,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 24360,"Área privativa à venda, São Pedro - Belo Horizonte/MG",Área privativa,São Pedro ,"779,Rua Cristina,São Pedro,Belo Horizonte",119.91,0.0,3.0,2.0,1.0,3.0,,900.0,1860000.0
 24347,"Apartamento 3 Quartos à venda, São Pedro - Belo Horizonte/MG",Apartamento,São Pedro ,"779,Rua Cristina,São Pedro,Belo Horizonte",87.17,0.0,3.0,2.0,1.0,2.0,,900.0,1270000.0
 23453,"Loja à venda, Ipiranga - Belo Horizonte/MG",Loja,Ipiranga ,"2080,Av. Bernardo de Vasconcelos,Ipiranga,Belo Horizonte",55.47,0.0,0.0,0.0,0.0,0.0,129.77,,298000.0
-5471,"Apartamento 1 Quarto à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"488,Rua Ministro Orozimbo Nonato,Vila da Serra,Nova Lima",32.42,0.0,1.0,1.0,1.0,1.0,43.0,850.0,260000.0
 23152,"Apartamento 3 Quartos à venda, Serra - Belo Horizonte/MG",Apartamento,Serra ,"304,Rua Guaxupe,Serra,Belo Horizonte",92.58,0.0,3.0,1.0,0.0,1.0,121.69,350.0,360000.0
 2364,"Casa à venda, Santa Tereza - Belo Horizonte/MG",Casa,Santa Tereza ,"2357,AV. DO CONTORNO,Santa Tereza,Belo Horizonte",350.0,0.0,3.0,6.0,1.0,3.0,710.74,,1397000.0
 22862,"Apartamento 4 Quartos à venda, Lourdes - Belo Horizonte/MG",Apartamento,Lourdes ,"1155,Av. Alvares Cabral,Lourdes,Belo Horizonte",172.0,0.0,4.0,2.0,1.0,2.0,543.11,1600.0,1630000.0
@@ -1837,7 +1778,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 23316,"Apartamento 2 Quartos à venda, Sion - Belo Horizonte/MG",Apartamento,Sion ,"55,Rua Patagonia,Sion,Belo Horizonte",82.0,0.0,2.0,1.0,0.0,1.0,276.9,1112.87,680000.0
 23332,"Apartamento 3 Quartos à venda, Sion - Belo Horizonte/MG",Apartamento,Sion ,"252,Rua La Plata,Sion,Belo Horizonte",133.0,0.0,3.0,2.0,1.0,2.0,620.98,989.26,1200000.0
 23464,"Sala à venda, Funcionários - Belo Horizonte/MG",Sala,Funcionários ,"321,Rua Santa Rita Durao,Funcionários,Belo Horizonte",35.0,0.0,0.0,1.0,0.0,0.0,123.22,281.0,175000.0
-2630,"Lote à venda, JARDIM CANADA - Nova Lima/MG",Lote,JARDIM CANADA ,"S/N,Rua Heston,JARDIM CANADA,Nova Lima",2880.0,0.0,0.0,0.0,0.0,0.0,,,3500000.0
 23172,"Apartamento 3 Quartos à venda, São Lucas - Belo Horizonte/MG",Apartamento,São Lucas ,"150,Rua Veraldo Lambertucci,São Lucas,Belo Horizonte",100.0,0.0,3.0,2.0,1.0,3.0,269.57,450.0,650000.0
 23166,"Cobertura à venda, Sion - Belo Horizonte/MG",Cobertura,Sion ,"67,Rua Costa Rica,Sion,Belo Horizonte",96.0,32.0,2.0,2.0,2.0,3.0,379.19,1126.94,1480000.0
 23171,"Apartamento 2 Quartos à venda, Santo Antônio - Belo Horizonte/MG",Apartamento,Santo Antônio ,"335,Rua Leopoldina,Santo Antônio,Belo Horizonte",53.6,0.0,2.0,2.0,1.0,2.0,238.14,604.83,695000.0
@@ -1950,7 +1890,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 21735,"Apartamento 2 Quartos à venda, Lourdes - Belo Horizonte/MG",Apartamento,Lourdes ,"1677,Rua Curitiba,Lourdes,Belo Horizonte",65.18,0.0,2.0,2.0,1.0,2.0,,,1050000.0
 21724,"Apartamento 2 Quartos à venda, Lourdes - Belo Horizonte/MG",Apartamento,Lourdes ,"1677,Rua Curitiba,Lourdes,Belo Horizonte",62.51,0.0,2.0,2.0,1.0,2.0,,,895000.0
 18676,"Apartamento 4 Quartos à venda, Sion - Belo Horizonte/MG",Apartamento,Sion ,"49,Rua Guaratinga,Sion,Belo Horizonte",137.25,0.0,4.0,2.0,1.0,2.0,404.8,1440.0,1200000.0
-10571,"Lote à venda, Estância do Sereno Sede - BETIM/MG",Lote,Estância do Sereno Sede ,"273,Alameda das Roseiras,Estância do Sereno Sede,BETIM",140000.0,0.0,0.0,0.0,0.0,0.0,,,25000000.0
 13136,"Lote à venda, Serra - Belo Horizonte/MG",Lote,Serra ,"145,Rua Afonso Alves Branco,Serra,Belo Horizonte",300.0,0.0,0.0,0.0,0.0,0.0,340.0,,1100000.0
 24344,"Cobertura à venda, Funcionários - Belo Horizonte/MG",Cobertura,Funcionários ,"31,Rua Gonçalves Dias,Funcionários,Belo Horizonte",138.49,0.0,3.0,3.0,3.0,3.0,,,2107280.46
 24343,"Apartamento 3 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"31,Rua Gonçalves Dias,Funcionários,Belo Horizonte",161.09,0.0,3.0,3.0,3.0,3.0,,,2098599.98
@@ -1978,7 +1917,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 23269,"Cobertura à venda, São Pedro - Belo Horizonte/MG",Cobertura,São Pedro ,"442,Rua Major Lopes,São Pedro,Belo Horizonte",88.5,35.3,2.0,2.0,3.0,2.0,364.17,600.0,2100000.0
 22623,"Apartamento 2 Quartos à venda, São Pedro - Belo Horizonte/MG",Apartamento,São Pedro ,"442,Rua Major Lopes,São Pedro,Belo Horizonte",68.92,0.0,2.0,2.0,2.0,2.0,364.17,600.0,940000.0
 22621,"Área privativa à venda, São Pedro - Belo Horizonte/MG",Área privativa,São Pedro ,"442,Rua Major Lopes,São Pedro,Belo Horizonte",68.92,78.34,2.0,2.0,2.0,2.0,364.17,600.0,1200000.0
-2444,"Casa à venda, JARDIM BARONE - ESMERALDAS/MG",Casa,JARDIM BARONE ,"42,RUA JOSE VITALINO GOMES DA COSTA,JARDIM BARONE,ESMERALDAS",600.0,0.0,4.0,3.0,1.0,6.0,41.66,,1600000.0
 21074,"Cobertura à venda, Sagrada Família - Belo Horizonte/MG",Cobertura,Sagrada Família ,"864/868,Rua Conselheiro Lafaiete,Sagrada Família,Belo Horizonte",135.11,0.0,3.0,3.0,1.0,2.0,,,1307070.0
 21073,"Cobertura à venda, Sagrada Família - Belo Horizonte/MG",Cobertura,Sagrada Família ,"864/868,Rua Conselheiro Lafaiete,Sagrada Família,Belo Horizonte",146.32,0.0,3.0,2.0,1.0,2.0,,,1290450.0
 21054,"Apartamento 3 Quartos à venda, Sagrada Família - Belo Horizonte/MG",Apartamento,Sagrada Família ,"864/868,Rua Conselheiro Lafaiete,Sagrada Família,Belo Horizonte",74.88,0.0,3.0,2.0,1.0,2.0,,,599000.0
@@ -2031,7 +1969,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 5418,"Apartamento 3 Quartos à venda, Prado - Belo Horizonte/MG",Apartamento,Prado ,"644,Rua dos Pampas,Prado,Belo Horizonte",91.58,0.0,3.0,2.0,1.0,2.0,234.08,685.0,949040.0
 5462,"Apartamento 4 Quartos à venda, Sion - Belo Horizonte/MG",Apartamento,Sion ,"147,Rua São Pedro da União e Rua Republica Argentina 725,Sion,Belo Horizonte",161.26,0.0,4.0,3.0,2.0,3.0,749.08,2300.0,2388331.61
 5424,"Apartamento 4 Quartos à venda, Sion - Belo Horizonte/MG",Apartamento,Sion ,"452,Rua Cristina,Sion,Belo Horizonte",176.46,0.0,4.0,3.0,2.0,3.0,824.0,1900.0,2568251.78
-5584,"Apartamento 4 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"970,Alameda Oscar Niemeyer,Vila da Serra,Nova Lima",215.0,0.0,4.0,3.0,2.0,4.0,160.57,1250.0,3415000.0
 5442,"Cobertura à venda, Funcionários - Belo Horizonte/MG",Cobertura,Funcionários ,"865,Rua Gonçalves Dias,Funcionários,Belo Horizonte",506.0,0.0,4.0,4.0,4.0,6.0,,3250.0,9295000.0
 5437,"Apartamento 4 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"865,Rua Gonçalves Dias,Funcionários,Belo Horizonte",294.27,0.0,4.0,4.0,4.0,4.0,,3250.0,5045940.0
 380,"Apartamento 2 Quartos à venda, Serra - Belo Horizonte/MG",Apartamento,Serra ,"526,RUA DO OURO,Serra,Belo Horizonte",57.0,0.0,2.0,1.0,0.0,1.0,72.72,390.0,415000.0
@@ -2067,7 +2004,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 3078,"Casa à venda, Cruzeiro - Belo Horizonte/MG",Casa,Cruzeiro ,"31,Rua Américo Diamantino,Cruzeiro,Belo Horizonte",410.0,0.0,5.0,3.0,2.0,4.0,500.0,,2200000.0
 8654,"Loja à venda, Prado - Belo Horizonte/MG",Loja,Prado ,"1036,Rua Campos Sales,Prado,Belo Horizonte",291.0,0.0,0.0,0.0,0.0,0.0,223.39,,1100000.0
 17788,"Cobertura à venda, Serra - Belo Horizonte/MG",Cobertura,Serra ,"715,Rua Muzambinho,Serra,Belo Horizonte",374.0,0.0,4.0,4.0,1.0,2.0,292.85,894.0,1570000.0
-2903,"Loja à venda, Vila da Serra - Nova Lima/MG",Loja,Vila da Serra ,"424,RUA DO VALE,Vila da Serra,Nova Lima",49.0,0.0,0.0,1.0,0.0,0.0,,98.0,340000.0
 2864,"Sala à venda, Santa Efigênia - Belo Horizonte/MG",Sala,Santa Efigênia ,"3323,AV. DOS ANDRADAS,Santa Efigênia,Belo Horizonte",35.14,0.0,0.0,1.0,0.0,1.0,202.27,607.83,320000.0
 18916,"Cobertura à venda, Cruzeiro - Belo Horizonte/MG",Cobertura,Cruzeiro ,"893,Rua Bambui,Cruzeiro,Belo Horizonte",110.14,52.77,3.0,2.0,1.0,3.0,,,1888000.0
 18911,"Apartamento 3 Quartos à venda, Cruzeiro - Belo Horizonte/MG",Apartamento,Cruzeiro ,"893,Rua Bambui,Cruzeiro,Belo Horizonte",86.17,0.0,3.0,2.0,1.0,2.0,,,999000.0
@@ -2083,7 +2019,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 23855,"Apartamento 2 Quartos à venda, São Lucas - Belo Horizonte/MG",Apartamento,São Lucas ,"796,Rua Monte Alegre,São Lucas,Belo Horizonte",63.56,0.0,2.0,2.0,1.0,2.0,,,615000.0
 23851,"Apartamento 2 Quartos à venda, São Lucas - Belo Horizonte/MG",Apartamento,São Lucas ,"796,Rua Monte Alegre,São Lucas,Belo Horizonte",59.98,0.0,2.0,2.0,1.0,2.0,,,581000.0
 12923,"Área privativa à venda, Santo Agostinho - Belo Horizonte/MG",Área privativa,Santo Agostinho ,"382,Rua Martim de Carvalho,Santo Agostinho,Belo Horizonte",66.93,40.98,2.0,2.0,2.0,2.0,,,1301000.0
-20713,"Apartamento 4 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"S/N,Alameda do Morro,Vila da Serra,Nova Lima",173.0,0.0,4.0,4.0,2.0,4.0,,,2835000.0
 15679,"Sala à venda, Santa Efigênia - Belo Horizonte/MG",Sala,Santa Efigênia ,"909,Rua dos Otoni,Santa Efigênia,Belo Horizonte",26.6,0.0,0.0,1.0,0.0,0.0,129.59,400.0,220000.0
 15211,"Apartamento 4 Quartos à venda, Serra - Belo Horizonte/MG",Apartamento,Serra ,"759,Rua Caraça,Serra,Belo Horizonte",186.93,0.0,4.0,3.0,2.0,3.0,,1600.0,1950000.0
 23940,"Apartamento 3 Quartos à venda, Funcionários - Belo Horizonte/MG",Apartamento,Funcionários ,"1008,Rua Antônio de Albuquerque,Funcionários,Belo Horizonte",107.0,0.0,3.0,3.0,3.0,2.0,,,1859000.0
@@ -2189,16 +2124,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 17347,"Área privativa à venda, Lourdes - Belo Horizonte/MG",Área privativa,Lourdes ,"576,Rua Felipe dos Santos,Lourdes,Belo Horizonte",111.49,66.61,3.0,3.0,1.0,2.0,,,2872750.46
 16550,"Área privativa à venda, Anchieta - Belo Horizonte/MG",Área privativa,Anchieta ,"1188,Rua Bambui,Anchieta,Belo Horizonte",70.4,32.16,2.0,2.0,2.0,2.0,,,1260000.0
 21050,"Área privativa à venda, Sagrada Família - Belo Horizonte/MG",Área privativa,Sagrada Família ,"864/868,Rua Conselheiro Lafaiete,Sagrada Família,Belo Horizonte",91.37,0.0,3.0,2.0,1.0,2.0,,,719000.0
-23610,"Apartamento 3 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"385,Av. Dr. Marco Paulo Simon Jardim,Vila da Serra,Nova Lima",90.03,0.0,3.0,2.0,1.0,2.0,,,1153180.77
-23609,"Apartamento 3 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"385,Av. Dr. Marco Paulo Simon Jardim,Vila da Serra,Nova Lima",107.93,0.0,3.0,2.0,1.0,2.0,,,1453719.96
-23634,"Apartamento 4 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"385,Avenida Doutor Marco Paulo Simon Jardim,Vila da Serra,Nova Lima",180.25,0.0,4.0,3.0,1.0,3.0,,,2234382.61
-23606,"Apartamento 3 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"385,Av. Dr. Marco Paulo Simon Jardim,Vila da Serra,Nova Lima",92.53,0.0,3.0,2.0,1.0,2.0,,,1197421.48
-23633,"Apartamento 4 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"385,Avenida Doutor Marco Paulo Simon Jardim,Vila da Serra,Nova Lima",211.6,0.0,4.0,3.0,1.0,3.0,,,2730058.97
-23603,"Apartamento 3 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"385,Av. Dr. Marco Paulo Simon Jardim,Vila da Serra,Nova Lima",94.68,0.0,3.0,2.0,1.0,2.0,,,1261830.66
-23540,"Apartamento 3 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"385,Av. Dr. Marco Paulo Simon Jardim,Vila da Serra,Nova Lima",99.53,0.0,3.0,2.0,1.0,2.0,,,1301565.75
-23537,"Apartamento 3 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"385,Av. Dr. Marco Paulo Simon Jardim,Vila da Serra,Nova Lima",108.0,0.0,3.0,2.0,1.0,2.0,,,1426140.0
-23533,"Apartamento 3 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"385,Av. Dr. Marco Paulo Simon Jardim,Vila da Serra,Nova Lima",94.83,0.0,3.0,2.0,1.0,2.0,,,1252230.15
-23531,"Apartamento 3 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"385,Av. Dr. Marco Paulo Simon Jardim,Vila da Serra,Nova Lima",93.35,0.0,3.0,2.0,1.0,2.0,,,1195316.88
 23601,"Sala à venda, União - Belo Horizonte/MG",Sala,União ,"2940,Avenida Cristiano Machado,União,Belo Horizonte",95.57,0.0,0.0,1.0,0.0,1.0,55.0,100.0,774117.0
 23600,"Sala à venda, União - Belo Horizonte/MG",Sala,União ,"2940,Avenida Cristiano Machado,União,Belo Horizonte",93.08,0.0,0.0,1.0,0.0,1.0,55.0,100.0,753948.0
 5277,"Sala à venda, União - Belo Horizonte/MG",Sala,União ,"2940,Avenida Cristiano Machado,União,Belo Horizonte",50.62,0.0,0.0,1.0,0.0,1.0,55.0,100.0,404960.0
@@ -2306,11 +2231,6 @@ Código,Título,Tipo Imóvel,Bairro,Endereço,Área interna,Área externa,# de q
 21983,"Cobertura à venda, Barroca - Belo Horizonte/MG",Cobertura,Barroca ,"501,Rua Contendas,Barroca,Belo Horizonte",140.0,50.0,3.0,2.0,1.0,4.0,,,1350000.0
 21982,"Apartamento 3 Quartos à venda, Barroca - Belo Horizonte/MG",Apartamento,Barroca ,"501,Rua Contendas,Barroca,Belo Horizonte",103.0,0.0,3.0,2.0,1.0,2.0,,,790000.0
 21981,"Área privativa à venda, Barroca - Belo Horizonte/MG",Área privativa,Barroca ,"501,Rua Contendas,Barroca,Belo Horizonte",103.0,120.0,3.0,2.0,1.0,3.0,,,1150000.0
-16860,"Apartamento 4 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"100,Rua Coronel Darwin Cordeiro,Vila da Serra,Nova Lima",757.0,0.0,5.0,6.0,5.0,10.0,,,10875486.15
-19450,"Cobertura à venda, Vila da Serra - Nova Lima/MG",Cobertura,Vila da Serra ,"s/n,Rua Manaca,Vila da Serra,Nova Lima",15.75,35.5,3.0,3.0,1.0,3.0,,,2602882.51
-18488,"Apartamento 3 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"s/n,Rua Manaca,Vila da Serra,Nova Lima",99.3,0.0,3.0,2.0,1.0,2.0,,,1503976.27
-18483,"Apartamento 3 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"s/n,Rua Manaca,Vila da Serra,Nova Lima",100.7,0.0,3.0,2.0,1.0,2.0,,,1372810.47
-18481,"Apartamento 3 Quartos à venda, Vila da Serra - Nova Lima/MG",Apartamento,Vila da Serra ,"s/n,Rua Manaca,Vila da Serra,Nova Lima",93.13,0.0,3.0,2.0,1.0,2.0,,,1256242.47
 18002,"Área privativa à venda, Santo Antônio - Belo Horizonte/MG",Área privativa,Santo Antônio ,"60,Rua Renato Falci,Santo Antônio,Belo Horizonte",67.0,49.34,3.0,3.0,1.0,2.0,,,849000.0
 17212,"Cobertura à venda, Luxemburgo - Belo Horizonte/MG",Cobertura,Luxemburgo ,"161,Rua Gentios,Luxemburgo,Belo Horizonte",43.7,24.86,1.0,2.0,1.0,1.0,,,600000.0
 17210,"Apartamento 1 Quarto à venda, Luxemburgo - Belo Horizonte/MG",Apartamento,Luxemburgo ,"161,Rua Gentios,Luxemburgo,Belo Horizonte",36.57,0.0,1.0,1.0,1.0,1.0,,,450000.0
