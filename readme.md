@@ -1,1 +1,1 @@
-**mapa.html possui um mapa de Belo Horizonte com os imóveis de nosso csv**
+a pasta mapa possui um mapa em html de Belo Horizonte com os imóveis de nosso csv
